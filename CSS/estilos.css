@@ -213,11 +213,11 @@ section h2 {
 }
 
 .imagen-nosotros {
-    max-height: 350px;
     width: 100%;
-    object-fit: cover;
-    border-radius: 15px;
-    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.10);
+    height: auto;
+    max-height: 450px;
+    object-fit: contain;
+    border-radius: 20px;
 }
 .seccion-contacto {
     background-color: #e9eef8;
